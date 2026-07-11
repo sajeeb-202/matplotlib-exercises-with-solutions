@@ -61,6 +61,16 @@ Display salary distributions for:
 
 ---
 
+### X-axis Categories
+
+Display the following department names on the X-axis:
+
+- Engineering
+- Marketing
+- Sales
+
+---
+
 ### Title
 
 ```text
