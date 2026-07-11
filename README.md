@@ -10,7 +10,7 @@ Whether you're preparing for data science interviews, strengthening your Python 
 
 ## ✨ Features
 
-- 📈 100+ progressively organized coding challenges
+- 📈 50+ progressively organized coding challenges
 - 🟢 Easy → 🟡 Medium → 🔴 Hard difficulty levels
 - 📝 Clear and professional problem statements
 - 💡 Real-world visualization scenarios
@@ -26,12 +26,12 @@ Whether you're preparing for data science interviews, strengthening your Python 
 matplotlib exercises with solutions/
 │
 ├── Easy/
-│   ├── 001_line_plot/
+│   ├── 001_monthly_sales_trend/
 │   │   ├── README.md
 │   │   ├── solution.py
 │   │   └── output.png
 │   │
-│   ├── 002_scatter_plot/
+│   ├── 002_website_traffic_analysis/
 │   └── ...
 │
 ├── Medium/
